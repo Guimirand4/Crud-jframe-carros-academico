@@ -1,22 +1,25 @@
-🚗 CRUD de Carros com JFrame (POO em Java)
-Projeto pessoal desenvolvido utilizando Java com Programação Orientada a Objetos para gerenciamento de carros através de uma interface gráfica construída com JFrame (Swing).
+🚗 Car CRUD with JFrame (OOP in Java)
 
-📚 Sobre o Projeto
-Este projeto implementa um sistema de CRUD (Create, Read, Update, Delete) de Carros com uma interface gráfica amigável.
-O objetivo é consolidar conceitos de POO e desenvolvimento de GUIs em Java, utilizando componentes visuais como JFrame, JTable, JButton, JTextField e outros.
+Personal project developed using Java with Object-Oriented Programming for managing cars through a graphical interface built with JFrame (Swing).
 
-🚀 Funcionalidades
-🚘 Cadastro de novos carros (Marca, Modelo, Ano, Cor, Placa, etc.)
+📚 About the Project
 
-📋 Listagem dos carros cadastrados em uma JTable
+This project implements a Car CRUD system (Create, Read, Update, Delete) with a user-friendly graphical interface.
+The goal is to consolidate OOP concepts and GUI development in Java, using visual components like JFrame, JTable, JButton, JTextField, and others.
 
-✏️ Edição dos dados de carros existentes
+🚀 Features
 
-❌ Remoção de carros do cadastro
+🚘 Register new cars (Brand, Model, Year, Color, License Plate, etc.)
 
-💾 Armazenamento dos dados em memória (simples)
+📋 List registered cars in a JTable
 
-🖥️ Interface gráfica interativa usando Swing
+✏️ Edit existing car data
 
-⚙️ Tecnologias Utilizadas
-<div style="display: flex; flex-wrap: nowrap; align-items: center;"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> </div>
+❌ Remove cars from the registry
+
+💾 Data storage in memory (simple)
+
+🖥️ Interactive graphical interface using Swing
+
+⚙️ Technologies Used
+<div style="display: flex; flex-wrap: nowrap; align-items: center;"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </div>
